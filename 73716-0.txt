@@ -1,5 +1,3 @@
-The Brooklyn Murders
-
 by G. D. H. Cole
 
 published by Thomas Seltzer (New York), 1924
@@ -11361,6 +11359,3 @@ headings in the list of suspects were only repeated once per page
 (i.e., a resumption of the list appearing lower on the same page would
 omit the column headings). For this transcription, the column headings
 are included with each resumption.
-
-
-
